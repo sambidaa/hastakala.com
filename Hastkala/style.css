@@ -1,0 +1,170 @@
+div ul{
+list-style-type:none;
+margin:0;
+padding:0;
+background-color:B95835;
+
+}
+
+div ul li a{
+text-decoration: none;
+color: white;
+padding: 15px 40px;
+display: block;
+}
+
+div ul li{
+display: inline-block;
+}
+
+div ul li a:hover{
+background-color:gold;
+}
+
+.dropdown-content{
+display:none;
+position:absolute;
+}
+
+.dropdown:hover .dropdown-content{
+display:block;
+}
+
+.dropdown-content li{
+display:block;
+}
+
+.dropdown-content li a{
+background-color:B95835;
+}
+
+.p1{
+	text-align: center;
+	background-color: beige;
+	padding:1px;
+	font-size: 32;
+}
+
+.product1{
+	display: inline-block;
+	max-width: 33%;
+	text-align:center;
+}
+
+
+.button{
+text-decoration:none;
+background-color:black;
+color:white;
+padding: 10px 20px;
+}
+
+.button:hover{
+color:gold;
+}
+
+.footer{
+	background-color: B95835;
+	max-width: 100%;
+}
+
+.content{
+	display: inline-block;
+	padding: 1%;
+	font-size: 18;
+	width: 30%;
+	color: white;
+}
+
+.content a{
+	text-decoration: none;
+	color: white;
+}
+
+.banner{
+
+	padding: 3%;
+}
+
+.terms{
+	padding: 2%;
+	font-size: 18;
+	text-align: justify;
+	}
+
+.intro p{
+		font-size: 25;
+
+}
+
+.intro{
+	padding: 3%;
+	text-align: justify;
+}	
+
+.aboutus{
+	padding: 2%;
+	font-size: 20;
+	text-align: justify;
+}
+
+.signin{
+	text-align: left;
+	font-size: 15;
+	padding: 90px 600px;
+}
+
+.signin fieldset{
+	padding: 10%;
+	background-color: beige;
+	font-size: 20;
+}
+
+.bot{
+	text-decoration: none;
+	color: black;
+}
+
+.signin a:hover{
+	color:B95835;
+}
+
+.cup{
+	display: inline-block;
+	padding: 2%;
+	max-width: 40%;
+}
+
+.con{
+	display: inline-block;
+
+}
+
+.con ol {
+	text-align: left;
+	font-size: 25;
+	list-style-type: none;
+
+}
+
+.review{
+	background-color: beige;
+	padding: 2%;
+}
+
+.cart{
+	background-color: beige;
+}
+.mycart{
+	padding: 2%;
+}
+
+.cart h1{
+	padding: 1%;
+}
+
+.gallery{
+	display: inline-block;
+	max-width: 33%;
+	padding: ;
+}
